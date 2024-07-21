@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "BERGWOCHENENDE 2024",
+    "title": "BERGWOCHENENDE-2024",
     "description": "",
     "home_page_url": "https://frau-urlaub-on-tour.github.io/bergwochenende-2024",
     "feed_url": "https://frau-urlaub-on-tour.github.io/bergwochenende-2024/feed.json",
@@ -13,13 +13,15 @@
             "id": "https://frau-urlaub-on-tour.github.io/bergwochenende-2024/beyond-the-50th.html",
             "url": "https://frau-urlaub-on-tour.github.io/bergwochenende-2024/beyond-the-50th.html",
             "title": "Am Rande des Abgrunds",
+            "content_html": "<div class=\"gallery-wrapper gallery-wrapper--full\"><div class=\"gallery\"  data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/IMG_2200.JPG\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/IMG_2200-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/DSC06230.JPG\" data-size=\"2720x1528\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/DSC06230-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"404\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/DSC06231.JPG\" data-size=\"2720x1528\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/DSC06231-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"404\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/IMG_2201.JPG\" data-size=\"4032x2268\"><img loading=\"lazy\" src=\"https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/gallery/IMG_2201-thumbnail.JPG\" alt=\"\" width=\"720\" height=\"405\"></a></figure>\n</div></div>",
+            "image": "https://frau-urlaub-on-tour.github.io/bergwochenende-2024/media/posts/5/IMG_2212.JPG",
             "author": {
                 "name": "author1"
             },
             "tags": [
             ],
             "date_published": "2022-07-30T17:39:41+02:00",
-            "date_modified": "2024-07-21T17:24:11+02:00"
+            "date_modified": "2024-07-21T17:45:31+02:00"
         }
     ]
 }
