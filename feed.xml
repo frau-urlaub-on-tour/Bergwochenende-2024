@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>BERGWOCHENENDE 2024</title>
+    <link href="https://frau-urlaub-on-tour.github.io/bergwochenende-2024/feed.xml" rel="self" />
+    <link href="https://frau-urlaub-on-tour.github.io/bergwochenende-2024" />
+    <updated>2024-07-21T17:24:11+02:00</updated>
+    <author>
+        <name>author1</name>
+    </author>
+    <id>https://frau-urlaub-on-tour.github.io/bergwochenende-2024</id>
+
+    <entry>
+        <title>Am Rande des Abgrunds</title>
+        <author>
+            <name>author1</name>
+        </author>
+        <link href="https://frau-urlaub-on-tour.github.io/bergwochenende-2024/beyond-the-50th.html"/>
+        <id>https://frau-urlaub-on-tour.github.io/bergwochenende-2024/beyond-the-50th.html</id>
+
+        <updated>2022-07-30T17:39:41+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>
